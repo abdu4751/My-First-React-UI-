@@ -26,3 +26,6 @@ This project helped me:
         ├── media.css
         └── /project-images   ← image folder used in components
   └── App.js
+  
+  <h1>📝 Notes</h1>
+This is a static UI project with no logic or state. Future updates may include interactivity and dynamic features.
