@@ -31,4 +31,4 @@ This project helped me:
 This is a static UI project with no logic or state. Future updates may include interactivity and dynamic features.
 
  <h1>🖼️ Preview</h1>
-![Project Screenshot]([components/project-images/screenshot.png](https://github.com/abdu4751/My-First-React-UI-/blob/2837375b27c6943d31e877d50bb9bf04e09f808a/Screenshot%20of%20project.png))
+![Project Screenshot](https://github.com/abdu4751/My-First-React-UI-/blob/2837375b27c6943d31e877d50bb9bf04e09f808a/Screenshot%20of%20project.png))
